@@ -55,6 +55,12 @@
         "projectId": "185e1de4-2044-460b-b15c-c7ad0b4427a8"
       }
     },
-    "owner": "dumilo"
+    "owner": "dumilo",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/185e1de4-2044-460b-b15c-c7ad0b4427a8"
+    }
   }
 }
